@@ -1,0 +1,8 @@
+C:\Users\Yova\PRO_CUNOR_COMPI1\practica1\wfaPractica1\wfaPractica1\bin\Debug\wfaPractica1.exe.config
+C:\Users\Yova\PRO_CUNOR_COMPI1\practica1\wfaPractica1\wfaPractica1\bin\Debug\wfaPractica1.exe
+C:\Users\Yova\PRO_CUNOR_COMPI1\practica1\wfaPractica1\wfaPractica1\bin\Debug\wfaPractica1.pdb
+C:\Users\Yova\PRO_CUNOR_COMPI1\practica1\wfaPractica1\wfaPractica1\obj\Debug\wfaPractica1.csprojResolveAssemblyReference.cache
+C:\Users\Yova\PRO_CUNOR_COMPI1\practica1\wfaPractica1\wfaPractica1\obj\Debug\wfaPractica1.Properties.Resources.resources
+C:\Users\Yova\PRO_CUNOR_COMPI1\practica1\wfaPractica1\wfaPractica1\obj\Debug\wfaPractica1.csproj.GenerateResource.Cache
+C:\Users\Yova\PRO_CUNOR_COMPI1\practica1\wfaPractica1\wfaPractica1\obj\Debug\wfaPractica1.exe
+C:\Users\Yova\PRO_CUNOR_COMPI1\practica1\wfaPractica1\wfaPractica1\obj\Debug\wfaPractica1.pdb
