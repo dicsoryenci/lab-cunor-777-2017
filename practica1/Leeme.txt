@@ -1,0 +1,5 @@
+Ejercicio 1
+
+Desarrollar un algoritmo recursivo que determine
+la cantidad de veces que se repite un carácter en una 
+cadena.
