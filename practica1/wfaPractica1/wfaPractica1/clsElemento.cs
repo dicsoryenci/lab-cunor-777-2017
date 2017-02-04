@@ -8,7 +8,12 @@ namespace wfaPractica1
 {
     public class clsElemento
     {
-        public char letra;
-        public int cantidad;
+        public char letra { get; set;} 
+        public int cantidad { get; set; }
+
+        public clsElemento(){
+            this.letra = 'a';
+            this.cantidad = 0;
+        }
     }
 }
