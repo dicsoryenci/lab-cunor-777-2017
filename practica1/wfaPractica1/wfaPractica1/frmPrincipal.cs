@@ -78,5 +78,8 @@ namespace wfaPractica1
             }
             return lstLetras;
         }
+
+        public List<clsElemento> lstReglas1;
+        
     }
 }
